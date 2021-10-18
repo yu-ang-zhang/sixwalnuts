@@ -6,7 +6,7 @@ our project is TEAMUP
 
 working process is in Wiki:
 
-Ongoing documentation of work: https://github.com/AncientMeme/procrastination/wiki
+Ongoing documentation of work: https://github.com/yu-ang-zhang/sixwalnuts/wiki/DOCUMENTATIONS
 
 ## Promotional Material
 
